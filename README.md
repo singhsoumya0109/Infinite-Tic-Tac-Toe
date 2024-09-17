@@ -1,5 +1,8 @@
 # Infinite Tic-Tac-Toe
 
+
+Live link- [game link](https://singhsoumya0109.github.io/Infinite-Tic-Tac-Toe/)
+
 ## Description
 
 Infinite Tic-Tac-Toe is a modern and innovative take on the classic Tic-Tac-Toe game, designed to provide endless fun and strategic challenges. This web-based game offers two exciting modes: the traditional standard mode and the unique disappearing moves mode. In the disappearing moves mode, players can only have three active moves at a time, making the game dynamic and endlessly engaging. With an intuitive interface and smooth gameplay, Infinite Tic-Tac-Toe is perfect for players of all ages.

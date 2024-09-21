@@ -1,6 +1,3 @@
-
-
-
 let boxes = document.querySelectorAll(".box");
 let msgContainer2 = document.querySelector(".msg-container2");
 let msgContainer1 = document.querySelector(".msg-container1");
@@ -106,7 +103,7 @@ boxes.forEach((box, index) => {
 });
 
 const highlightOldestMove = (player) => {
-    if (moves[player].length == 3) {
+    if (moves[player].length == 3 && !checkWinner()) {
         let oldMoveIndex = moves[player][0];
         boxes[oldMoveIndex].classList.add("highlight");
     }
